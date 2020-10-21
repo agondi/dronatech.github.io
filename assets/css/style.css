@@ -30,8 +30,8 @@ body {
     padding-top:35px;
 }
 .set-row-pad {
-    padding-top:30px;
-    padding-bottom:50px;
+    padding-top:0px;
+    padding-bottom:90px;
 }
 /*=====================================
   NAVBAR STYLES 
@@ -42,7 +42,7 @@ body {
 }
 
 #menu {
-    background-color: rgba(28, 43, 75, 1);
+    background-color: #015571;
     color: #fff;
     font-size: 12px;
     font-weight: 900;
@@ -76,7 +76,7 @@ body {
 }
 
     .home-sec .overlay {
-        background: rgba(38, 57, 88, 0.89);
+        background: rgba(25, 94, 131, 0.89);
         min-height: 500px;
     }
 
